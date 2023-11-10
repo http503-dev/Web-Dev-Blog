@@ -1,0 +1,28 @@
+html{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+    background-image: linear-gradient(-20deg, #e9defa 0%, #fbfcdb 100%);
+}
+
+
+.headers{
+    color: rgb(198, 44, 129);
+    font-family: 'Alumni Sans Collegiate One', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Sometype Mono', monospace;
+    
+}
+
+.flex-container{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.responsive{
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
